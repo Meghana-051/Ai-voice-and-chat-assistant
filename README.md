@@ -95,4 +95,3 @@ This project is free to use.
 - **TTS and Voice Recognition:** The application leverages text-to-speech and voice recognition modules. In case of any loading or processing issues, make sure that microphone and audio configurations are correctly set up.
 - **Support:** For more details or troubleshooting, please refer to the code comments within [main.py](c:\Users\MR\OneDrive\Desktop\AI_assistant\main.py).
 
-Enjoy
